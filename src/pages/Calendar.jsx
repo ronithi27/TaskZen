@@ -5,7 +5,7 @@ import {
   Plus, 
   CheckCircle2, 
   Circle, 
-  Clock,
+  Clock,    
   Flag,
   Tag,
   ChevronLeft,
